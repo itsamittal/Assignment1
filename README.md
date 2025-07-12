@@ -1,11 +1,11 @@
 This repository contains all the assignments which I've solved during the practice in 'Introduction to Python' for basic mathemetical operations.
 
-Topics covered are:-
+#Topics covered are:-
 1 Print(), input(), intiger, float, string, concatenates 
-
 2 input function
 
-Solution:-
+
+#Solution:-
   
 Task1.
 1. It will take two numbers as input from the user.
