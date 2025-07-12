@@ -1,5 +1,4 @@
 # Task 1: Perform Basic Mathematical Operations
-
 # 1.  Takes two numbers as input from the user.
 
 # Addition of two number.
