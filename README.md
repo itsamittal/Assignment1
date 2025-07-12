@@ -2,6 +2,7 @@ This repository contains all the assignments which I've solved during the practi
 
 Topics covered are:-
 1 Print(), input(), intiger, float, string, concatenates 
+
 2 input function
 
 Solution:-
