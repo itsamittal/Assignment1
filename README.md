@@ -1,25 +1,20 @@
-This repository contains all the assignments which I've solved during the practice in 'Introduction to Python' for basic mathemetical operations.
+# 🧮 Python Basics: Math Operations and Personalized Greeting
 
-#Topics covered are:-
-1 Print(), input(), intiger, float, string, concatenates 
-2 input function
+1. **Basic Mathematical Operations** (Addition, Subtraction, Multiplication, Division)
+2. **User Greeting with Full Name Concatenation**
 
+### 1. Basic Mathematical Operations
 
-#Solution:-
-  
-Task1.
-1. It will take two numbers as input from the user.
-2. These will Performs the basic mathematical operations on these two numbers:
-o	Addition
-o	Subtraction
-o	Multiplication
-o	Division
+- Prompts the user to enter **two numbers**
+- Performs and displays the result of:
+  - ➕ Addition
+  - ➖ Subtraction
+  - ✖️ Multiplication
+  - ➗ Division (with handling for division by zero)
 
+### 2. Personalized Greeting
 
-Task2.
-1. It Takes a user's first name and last name as input.
-2. It's Concatenates the first name and last name as a full name.
-3.  It will Print a personalized greeting message with full name.
-
-
-
+- Prompts the user to enter their **first name** and **last name**
+- Concatenates both names into a **full name**
+- Prints a friendly greeting like:  
+  `"Hello, John Doe! Welcome!"`
